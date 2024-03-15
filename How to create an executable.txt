@@ -1,0 +1,3 @@
+1. Change the extension from .py to .pyw to avoid invoking the terminal window later in the executable 
+2. Open the command prompt 
+3. run this pyinstaller --onefile file_name 
